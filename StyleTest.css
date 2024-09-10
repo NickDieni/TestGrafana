@@ -1,0 +1,23 @@
+
+body {
+    margin: 10;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif; /* Optional: Set the font family */
+    color: #ffffff; /* Optional: Set text color */
+    background-color: #111217;
+
+}
+
+/* Optional: Style other elements on the page */
+.content {
+    padding: 20px;
+}
+
+#dashboard-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(0%, 50%);
+}
